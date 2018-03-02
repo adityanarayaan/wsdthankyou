@@ -1,5 +1,6 @@
 @extends('layouts.default')
 
 @section('content')
-    <h1>Thank you: {{$name}}</h1>
+    <h1><br>Thank you: {{$name}}</br></h1>
+
 @endsection

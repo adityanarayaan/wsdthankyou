@@ -20,14 +20,14 @@
             </div>
         </div>
         <div class="row">
-            <div class="col-md-22">
+            <div class="col-md-12">
                 <div class="form-group">
                     <textarea class="form-control textarea" rows="3" name="message" id="Message" placeholder="Message"></textarea>
                 </div>
             </div>
         </div>
         <div class="row">
-            <div class="col-md-22">
+            <div class="col-md-12">
                 <button type="submit" class="btn main-btn pull-right">Send a message</button>
             </div>
         </div>
